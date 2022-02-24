@@ -1,0 +1,5 @@
+var landMarks = {
+Accra:[],
+Kumasi:[],
+Koforidua:[]
+};
